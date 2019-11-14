@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /pve
+  port: 7777
+
+spring:
+  messages:
+    basename: i18n/messages
+    encoding: UTF-8
