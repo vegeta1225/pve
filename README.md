@@ -19,6 +19,7 @@ Write a password validation service, meant to be configurable via IoC (using dep
 * Swagger
 * Gradle
 * Spring Boot
+* Lombok
 
 ## Test Guide
 
